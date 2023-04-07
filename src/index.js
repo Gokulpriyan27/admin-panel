@@ -13,7 +13,7 @@ import BlankPage from './components/BlankPage';
 import Borders from './components/Borders';
 import Animations from './components/Animations';
 import Others from './components/Others';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
